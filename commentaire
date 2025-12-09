@@ -1,0 +1,4 @@
+*COUNT() : Mesure les fréquences et le volume (les totaux).
+* SUM(): Calcule le total cumulé d'une valeur.
+* AVG() : Établit la  norme.
+*MIN() et MAX() : Identifie les valeurs extrêmes (les limites).
